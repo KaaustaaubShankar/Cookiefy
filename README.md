@@ -1,4 +1,4 @@
-# Color Autoencoder
+# Cookie Autoencoder
 
 A deep learning model that generates cookies from images through an autoencoder, with ongoing work to preserve more original image features during reconstruction.
 
